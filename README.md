@@ -9,8 +9,7 @@ https://www.youtube.com/watch?v=ESaRZz5V9OI&list=PLe30vg_FG4OSdVn4zFpXNpBILtijJ2
 
 sandbox create your busniss and personal account.
 
-this example client example.
-for example: 
+client example.
 
 paypal.Buttons({
     style: {
