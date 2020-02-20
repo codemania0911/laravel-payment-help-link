@@ -11,6 +11,7 @@ sandbox create your busniss and personal account.
 
 client example.
 
+
 paypal.Buttons({
     style: {
         shape: 'pill',
